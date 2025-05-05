@@ -78,7 +78,7 @@
 //     );
 // };
 // export default FriendsActivity;
-
+// // НЕДОРОБЛЕНИЙ REAL-TIME ФУНКЦІОНАЛ ДЛЯ ЧАТТИНГУ СЕРЕД КОРИСТУВАЧІВ (SOCKET.IO)
 
 
 
